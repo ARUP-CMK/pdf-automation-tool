@@ -1,0 +1,15 @@
+{
+    "Company Name": "Leviat",
+    "Default Output Folder": "Desktop",
+    "Window": {
+        "Width": 1200,
+        "Height": 800,
+        "Min_Width": 900,
+        "Min_Height": 600
+    },
+    "Preview": {
+        "Background_Color": "#2B2B2B"
+    }
+}
+
+
